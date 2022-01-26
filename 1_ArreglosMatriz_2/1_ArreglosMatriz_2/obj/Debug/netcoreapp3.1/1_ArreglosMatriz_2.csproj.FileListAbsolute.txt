@@ -1,0 +1,14 @@
+C:\Users\ricar\source\repos\1_ArreglosMatriz_2\1_ArreglosMatriz_2\bin\Debug\netcoreapp3.1\1_ArreglosMatriz_2.exe
+C:\Users\ricar\source\repos\1_ArreglosMatriz_2\1_ArreglosMatriz_2\bin\Debug\netcoreapp3.1\1_ArreglosMatriz_2.deps.json
+C:\Users\ricar\source\repos\1_ArreglosMatriz_2\1_ArreglosMatriz_2\bin\Debug\netcoreapp3.1\1_ArreglosMatriz_2.runtimeconfig.json
+C:\Users\ricar\source\repos\1_ArreglosMatriz_2\1_ArreglosMatriz_2\bin\Debug\netcoreapp3.1\1_ArreglosMatriz_2.runtimeconfig.dev.json
+C:\Users\ricar\source\repos\1_ArreglosMatriz_2\1_ArreglosMatriz_2\bin\Debug\netcoreapp3.1\1_ArreglosMatriz_2.dll
+C:\Users\ricar\source\repos\1_ArreglosMatriz_2\1_ArreglosMatriz_2\bin\Debug\netcoreapp3.1\1_ArreglosMatriz_2.pdb
+C:\Users\ricar\source\repos\1_ArreglosMatriz_2\1_ArreglosMatriz_2\obj\Debug\netcoreapp3.1\1_ArreglosMatriz_2.csproj.AssemblyReference.cache
+C:\Users\ricar\source\repos\1_ArreglosMatriz_2\1_ArreglosMatriz_2\obj\Debug\netcoreapp3.1\1_ArreglosMatriz_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricar\source\repos\1_ArreglosMatriz_2\1_ArreglosMatriz_2\obj\Debug\netcoreapp3.1\1_ArreglosMatriz_2.AssemblyInfoInputs.cache
+C:\Users\ricar\source\repos\1_ArreglosMatriz_2\1_ArreglosMatriz_2\obj\Debug\netcoreapp3.1\1_ArreglosMatriz_2.AssemblyInfo.cs
+C:\Users\ricar\source\repos\1_ArreglosMatriz_2\1_ArreglosMatriz_2\obj\Debug\netcoreapp3.1\1_ArreglosMatriz_2.csproj.CoreCompileInputs.cache
+C:\Users\ricar\source\repos\1_ArreglosMatriz_2\1_ArreglosMatriz_2\obj\Debug\netcoreapp3.1\1_ArreglosMatriz_2.dll
+C:\Users\ricar\source\repos\1_ArreglosMatriz_2\1_ArreglosMatriz_2\obj\Debug\netcoreapp3.1\1_ArreglosMatriz_2.pdb
+C:\Users\ricar\source\repos\1_ArreglosMatriz_2\1_ArreglosMatriz_2\obj\Debug\netcoreapp3.1\1_ArreglosMatriz_2.genruntimeconfig.cache
